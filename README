@@ -1,0 +1,17 @@
+DESCRIPTION.
+Save heaps of time previewing apps in the Corona Simulator via this script.
+Once you have modified this AppleScript, you can then create an app (in AppleScript you go File>Save AS>Application) 
+
+Then drag this application to your Finder Toolbar. 
+Navigate to a Corona Project folder and hit this new button on the toolbar. 
+The Corona simulator will open with you Application read to go.
+
+REQUIREMENTS
+OSX of course!
+Please update the path to the "Corona Simulator" command (you will have saved this somewhere when you downloaded the Corona SDK).
+
+ARGUMENTS YOU CAN ADD TO THIS FILE
+-skin $skinname (from the menu)
+and
+-allowLuaExit 0/1
+which changes the behaviour of os.exit to quit the simulator instead of closing the project
