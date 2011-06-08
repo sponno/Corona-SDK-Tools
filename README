@@ -1,5 +1,8 @@
+
+
 DESCRIPTION.
-Save heaps of time previewing apps in the Corona Simulator via this script.
+Launch you CoronaSDK app (eg main.lua) file right from Finder on OSx, follow a few simple instructions below, add the shortcut to the finder bar and you can open any app in the simulator with 1 click.
+
 Once you have modified this AppleScript, you can then create an app (in AppleScript you go File>Save AS>Application) 
 
 Then drag this application to your Finder Toolbar. 
